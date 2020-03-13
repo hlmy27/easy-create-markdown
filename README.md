@@ -79,7 +79,9 @@ Contoh :
 ```
 
 # **Gambar**
-Github Logo: ![Alt Text](https://lh3.googleusercontent.com/proxy/tpJxN4PRiRXE81MMBffTNo6YsFnE41ZF-VvV8x1BW5-zDIbnhDtuX5MEM0cNoJvxd3dGcJA7cGrqp5bdhrU9TPKd2WLd0tMKg1lEDNMhik_1aZV3NDohfPo)
+Github Logo: 
+
+![Alt Text](https://lh3.googleusercontent.com/proxy/tpJxN4PRiRXE81MMBffTNo6YsFnE41ZF-VvV8x1BW5-zDIbnhDtuX5MEM0cNoJvxd3dGcJA7cGrqp5bdhrU9TPKd2WLd0tMKg1lEDNMhik_1aZV3NDohfPo)
 
 ```
 Contoh:
