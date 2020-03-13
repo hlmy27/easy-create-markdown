@@ -22,9 +22,9 @@ Contoh :
 ##### H5
 ###### H6
 ```
-```
-# Tag untuk membuat <h1> atau heading 1, semakin banyak #, maka size dari heading atau teks tersebut akan semakin kecil.
-```
+
+`#` Tag untuk membuat `<h1>` atau heading 1, semakin banyak `#`, maka size dari heading atau teks tersebut akan semakin kecil.
+
 # **Emphasis**
 *Teks Italic*
 **Teks Bold**
@@ -166,5 +166,4 @@ Item 3 | Item 3
 
 # **Emoji**
 Github juga mendukung penggunakan [Emoji](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji) dan dapat kalian gunakan.
-
 Sumber : [Guide Github](https://guides.github.com/features/mastering-markdown/)
